@@ -1,14 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently using ...
-  Backend - Fastapi
-
-  Frontend - js
+- 🔭 I’m currently using ... Fastapi,sqlite,Js(basic level)
   
-- 🌱 I’m currently learning ...
-  Backend - nodeJS
+- 🌱 I’m currently learning ...Nodejs,React,Js
 
-  Frontend - React
-
-  Java
-  
